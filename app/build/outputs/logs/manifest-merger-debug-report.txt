@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		INJECTED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:3:5-94
+	android:maxSdkVersion
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:3:66-92
+	android:name
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:3:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:4:5-100
+	android:maxSdkVersion
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:4:72-98
+	android:name
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:4:22-71
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.INTERNET
+ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:7:5-76
+	android:name
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:7:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_CONNECTED_DEVICE
+ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:8:5-93
+	android:name
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:8:22-91
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:9:22-74
+uses-feature#android.hardware.usb.host
+ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:10:5-86
+	android:required
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:10:60-84
+	android:name
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:10:19-59
+application
+ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:11:5-27:19
+INJECTED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:11:5-27:19
+	android:extractNativeLibs
+		INJECTED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml
+	android:label
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:11:18-48
+	android:theme
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:12:9-74
+	android:usesCleartextTraffic
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:13:9-44
+activity#com.example.thermalbridge.MainActivity
+ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:14:9-24:20
+	android:exported
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:14:48-71
+	android:name
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:16:17-68
+	android:name
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:17:27-74
+intent-filter#action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:19:13-21:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:20:17-89
+	android:name
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:20:25-87
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:22:13-23:56
+	android:resource
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:23:17-54
+	android:name
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:22:24-86
+service#com.example.thermalbridge.BridgeService
+ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:25:9-26:62
+	android:exported
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:25:48-72
+	android:foregroundServiceType
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:26:13-60
+	android:name
+		ADDED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml:25:18-47
+uses-sdk
+INJECTED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml
+INJECTED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\ThermalBridge (1)\ThermalBridge\app\src\main\AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Thu Oct 01 00:11:27 IST 2026
+base.0=E\:\\ThermalBridge (1)\\ThermalBridge\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex
